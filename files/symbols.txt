@@ -1,0 +1,57 @@
+Rooms
+21: Crossroads
+104: Oasis
+173: Tent
+303: Village
+456: House
+570: Forest
+707: Mountains
+813: Up the mountains
+976: Gate
+1085: Secret
+1167: Top of the mountain
+1250: Cliff
+1331: Dragon's lair
+
+Subroutines
+1524: Cart data generator
+1585: Default action
+1626: Take item
+1653: Drop item
+1663: Mountain death message
+1670: Sword and shield message
+1675: Mystery counter
+1726: Input loop
+1939: Death loop
+
+Variables
+5908: Input count
+5909: Mystery count
+5910: Last move
+5911: Last move (unrotated) 
+5912: Inventory item
+5913: Inventory full
+5914: World rotation
+5915: Elevator position
+5916: Rope taken
+5917: Key taken
+5918: Shield taken
+5919: Axe taken
+5920: Sword taken
+5921: Stone taken
+5922: Village door unlocked
+5923: Mountain gate unlocked
+5924: Goat dismissed
+5925: Attack potion taken
+5926+: Input list
+
+Item IDs
+0-Empty
+1-Key
+2-Axe
+3-Sword
+4-Shield
+5-Rope
+6-Stone
+7-Sandwich
+8-Sandwich + Shield
